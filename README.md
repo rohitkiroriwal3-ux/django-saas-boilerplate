@@ -244,6 +244,15 @@ http://127.0.0.1:8000
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
 ![SaaS](https://img.shields.io/badge/Type-SaaS-purple)
 
+## 📸 Screenshots
+
+### Multi-Tenant Organization Management
+![Org](screenshots/django-saas-boilerplate.png)
+
+### Subscription Plans & API Keys
+Stripe-style plans, limits and API authentication.
+
+
 👨‍💻 Author
 
 Rohit Kiroriwal
